@@ -1,4 +1,4 @@
-# Web_Scaping
+# Web_Scraping
 Repository displaying all my web-scraping completed
 
 
