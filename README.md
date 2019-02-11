@@ -8,4 +8,4 @@ Repository displaying all my web-scraping completed
 ### SELENIUM AND RSELENIUM
 
 
-### EXCEL (WHEN I FEEL LIKE PUTTING THEM UP)
+### EXCEL (IF I FEEL LIKE PUTTING THEM UP)
