@@ -2,10 +2,10 @@
 Repository displaying all my web-scraping completed
 
 
-### RVEST
+- RVEST
 
 
-### SELENIUM AND RSELENIUM
+- SELENIUM AND RSELENIUM
 
 
-### EXCEL (IF I FEEL LIKE PUTTING THEM UP)
+- EXCEL (IF I FEEL LIKE PUTTING THEM UP)
